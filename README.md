@@ -23,14 +23,15 @@ I'm an applied machine learning research scientist with a background in software
 
 ### @ the office 
 
-- 👾 Machine Learning: deep learning, long short-term memory (LSTM), artificial recurrent neural networks (RNN)
+- 👾 aiWatch Service Lead
 
 ## 📚 Study Roadmap 
 
-**Primary**: Artificial Intelligence, AWS, CI/CD pipelines, build tools, Cucumber, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, BDD, SDD, Sec+/Network+, TDD, TensorFlow; AWS certs
+**Primary**: Artificial Intelligence, Cognative Science, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Kubernetes, Linux, Machine Learning, Microservices, networking in general
 
-### Mathematics
+### Readings
 
+- A Thousand Brains: A New Theory of Intelligence
 - Mathematical Logic by William Van Orman Quine (1961)
 - Discrete Mathematics by Norman L. Biggs (1993) 
 

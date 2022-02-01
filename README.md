@@ -15,7 +15,7 @@ I'm an applied machine learning research scientist with a background in software
 ## 👨‍💻 The latest about me 
 
 - 🔭 I’m learning Quantum Computing and working on Random Walk Algorithm 
-- 👯 I’m looking to collaborate on projects with Go and Java 
+- 👯 I’m looking to collaborate on projects with Java, Golan and C/C++ 
 - 🤔 I’m looking for help with Cognative Science 
 - 💬 Ask me about Java and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/)

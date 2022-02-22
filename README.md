@@ -12,7 +12,7 @@ I'm an applied machine learning research scientist with a background in software
 
 ## 👨‍💻 The latest about me 
 
-- 🔭 I’m learning Quantum Computing and working on Random Walk Algorithm 
+- 🔭 I’m learning Cognative Science, Software Architecture/Design and Blockchain 
 - 👯 I’m looking to collaborate on projects with Java, Golan and C/C++ 
 - 🤔 I’m looking for help with Cognative Science 
 - 💬 Ask me about Java and Python education resources
@@ -26,6 +26,7 @@ I'm an applied machine learning research scientist with a background in software
 ### Readings
 
 - A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
+- Software Architecture in Practice -  Len Bass, Paul Clements, and Rick Kazman
 - The Changing World Order - Ray Dalio
 - Mathematical Logic - William Van Orman Quine (1961)
 - Discrete Mathematics - Norman L. Biggs (1993) 

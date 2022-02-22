@@ -1,6 +1,6 @@
 # Hey there, I'm Waqas
 
-I'm an applied machine learning research scientist with a background in software engineering and cloud architecture. I bridge the semantic gap between business logic and technological solutions.
+I'm an applied machine learning research scientist with a background in software engineering. I bridge the semantic gap between business logic and technological solutions.
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=waqaskhan137&theme=onedark&margin-w=15&margin-h=15&column=7)
 
@@ -20,29 +20,16 @@ I'm an applied machine learning research scientist with a background in software
 - 💬 Ask me about Java and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/)
 
-### @ the office 
-
-- 👾 aiWatch Service Lead
 
 ## 📚 Study Roadmap 
 
-**Primary**: Artificial Intelligence, Cognative Science, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Kubernetes, Linux, Machine Learning, Microservices, networking in general
+**Primary**: Cognative Science, Data Structures & Algorithms, Microservices and Blockchain. 
 
 ### Readings
 
-- A Thousand Brains: A New Theory of Intelligence
+- A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 - The Changing World Order - Ray Dalio
-- Mathematical Logic by William Van Orman Quine (1961)
-- Discrete Mathematics by Norman L. Biggs (1993) 
-
-<!--                      
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mathematical Logic - William Van Orman Quine (1961)
+- Discrete Mathematics - Norman L. Biggs (1993) 
+- Thus Spoke Zarathustra - Friedrich Nietzsche 
+- The Plague - Albert Camus 

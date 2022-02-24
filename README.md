@@ -1,6 +1,6 @@
 # Hey there, I'm Waqas
 
-I'm an applied machine learning research scientist with a background in software engineering. I bridge the semantic gap between business logic and technological solutions.
+I have interest in applied machine learning and architecting ML/AI framework with a background in software engineering. I bridge the semantic gap between business logic and technological solutions.
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=waqaskhan137&theme=onedark&margin-w=15&margin-h=15&column=7)
 
@@ -12,7 +12,7 @@ I'm an applied machine learning research scientist with a background in software
 
 ## 👨‍💻 The latest about me 
 
-- 🔭 I’m learning Cognative Science, Software Architecture/Design and Blockchain 
+- 🔭 I’m learning Cognative Science and Software Architecture/Design 
 - 👯 I’m looking to collaborate on projects with Java, Golan and C/C++ 
 - 🤔 I’m looking for help with Cognative Science 
 - 💬 Ask me about Java and Python education resources

@@ -14,7 +14,6 @@ I have interest in applied machine learning and architecting ML/AI framework wit
 
 - 🔭 I’m learning Cognative Science and Software Architecture/Design 
 - 👯 I’m looking to collaborate on projects with Java, Golan and C/C++ 
-- 🤔 I’m looking for help with Cognative Science 
 - 💬 Ask me about Java and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/)
 

@@ -1,6 +1,6 @@
 # Hey there, I'm Waqas
 
-I have interest in applied machine learning and architecting ML/AI framework with a background in software engineering. I bridge the semantic gap between business logic and technological solutions.
+I am a software engineer with a keen interest in applied machine learning and the architecture of ML/AI frameworks. I possess the unique ability to seamlessly integrate business logic with technological solutions, effectively bridging the semantic gap between the two.
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=waqaskhan137&theme=onedark&margin-w=15&margin-h=15&column=7)
 
@@ -31,3 +31,5 @@ I have interest in applied machine learning and architecting ML/AI framework wit
 - Discrete Mathematics - Norman L. Biggs (1993) 
 - Thus Spoke Zarathustra - Friedrich Nietzsche 
 - The Plague - Albert Camus 
+- Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.

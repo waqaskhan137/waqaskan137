@@ -12,7 +12,7 @@ I am a software engineer with a keen interest in applied machine learning and th
 
 ## 👨‍💻 The latest about me 
 
-- 🔭 I’m learning Cognative Science and Software Architecture/Design 
+- 🔭 I’m learning Cognitive Science and Software Architecture/Design 
 - 👯 I’m looking to collaborate on projects with Java, Golan and C/C++ 
 - 💬 Ask me about Java and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/)
@@ -20,7 +20,7 @@ I am a software engineer with a keen interest in applied machine learning and th
 
 ## 📚 Study Roadmap 
 
-**Primary**: Cognative Science, Data Structures & Algorithms, Microservices and Blockchain. 
+**Primary**: Cognitive Science, Data Structures & Algorithms, Microservices and Blockchain. 
 
 ### Readings
 

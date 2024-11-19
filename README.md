@@ -11,8 +11,9 @@ I am a software engineer with a keen interest in applied machine learning and th
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=waqaskhan137&theme=onedark&layout=compact&langs_count=15&card_width=810)
 ![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=waqaskhan137&show_icons=true&theme=onedark&width=810) 
 
- ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=waqaskhan137&theme=onedark) --> 
+ ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=waqaskhan137&theme=onedark)  
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=waqaskhan137&theme=onedark&layout=compact)
+-->
 ## 👨‍💻 The latest about me 
 
 - 🔭 I’m learning Cognitive Science and Software Architecture/Design 

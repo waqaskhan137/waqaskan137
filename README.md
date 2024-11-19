@@ -2,7 +2,7 @@
 
 # Hey there, I'm Waqas
 
-I am a software engineer with a keen interest in applied machine learning and the architecture of ML/AI frameworks. I possess the unique ability to seamlessly integrate business logic with technological solutions, effectively bridging the semantic gap between the two.
+I am an engineer with a keen interest in applied machine learning and the architecture of ML/AI frameworks. I possess the unique ability to seamlessly integrate business logic with technological solutions, effectively bridging the semantic gap between the two.
 
 
 <!--
@@ -17,11 +17,11 @@ I am a software engineer with a keen interest in applied machine learning and th
 ## 👨‍💻 The latest about me 
 
 - 🔭 I’m learning Cognitive Science and Software Architecture/Design 
-- 👯 I’m looking to collaborate on projects with Java, Golan and C/C++ 
-- 💬 Ask me about Java and Python education resources
-- 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/)
+- 👯 I’m looking to collaborate on projects with Python, Java, Golan and C/C++ 
+- 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/ranamuhammadwaqas/) or email waqaskhan137@gmail.com
 
 
+<!--
 ## 📚 Study Roadmap 
 
 **Primary**: Cognitive Science, Data Structures & Algorithms, Microservices and Blockchain. 
@@ -37,5 +37,5 @@ I am a software engineer with a keen interest in applied machine learning and th
 - The Plague - Albert Camus 
 - Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
-
+-->
 ![Profile Views](https://komarev.com/ghpvc/?username=waqaskhan137)
